@@ -33,3 +33,9 @@ El lenguaje C es un lenguaje **compilado**, por lo tanto, se debe compilar el c�
 ```bash
 gcc conversor.c -o conversor
 ./conversor
+
+# Proyectos de Programación - Actividad Práctica
+
+**Estudiante:** Erick Javier Cabrera Morales  
+**Correo:** jcabrera1806@gmail.com  
+**Carné:** 25006943  
